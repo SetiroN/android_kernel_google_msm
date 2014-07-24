@@ -49,10 +49,10 @@
 /** elementalx defs  **/
 
 int uv_bin = 0;
-uint32_t arg_max_oc0 = 2052000;
-uint32_t arg_max_oc1 = 2052000;
-uint32_t arg_max_oc2 = 2052000;
-uint32_t arg_max_oc3 = 2052000;
+uint32_t arg_max_oc0 = 2160000;
+uint32_t arg_max_oc1 = 2160000;
+uint32_t arg_max_oc2 = 2160000;
+uint32_t arg_max_oc3 = 2160000;
 
 int pvs_number = 0;
 module_param(pvs_number, int, 0755); 
